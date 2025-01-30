@@ -55,4 +55,4 @@ jobs:
           app-name: 'MonSiteWebWindows'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA8050F9406A481C98222A81BE7B79E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3C04916A21934ED494AB33B4E5E32AD1 }}
